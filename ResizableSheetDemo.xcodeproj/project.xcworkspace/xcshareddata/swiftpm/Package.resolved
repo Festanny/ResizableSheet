@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ResizableSheet",
+        "repositoryURL": "https://github.com/mtj0928/ResizableSheet",
+        "state": {
+          "branch": "main",
+          "revision": "ed8cf963c5478298824d2a4b2ca3560444aeff60",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
